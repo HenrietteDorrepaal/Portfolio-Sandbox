@@ -94,3 +94,8 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
 }
+@media (min-width: 768px) {
+  h1 {
+    color: rgb(229, 106, 240);
+  }
+}
